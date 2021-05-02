@@ -7,15 +7,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>ABW Bordados</h1>
-        <p1>Puedes conectarte a la siguiente pagina para ver nuestros bordados</p1>		
+        <p>Bye there!</p>
         <a
           className="App-link"
-          href="https://www.facebook.com/ABW-Bordados-969677983185285"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Contactate con nosotros
+          Learn React
         </a>
       </header>
     </div>
